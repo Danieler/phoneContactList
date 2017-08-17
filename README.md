@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Install npm dependencies
 
-Run npm install in the root for install all npm dependencies.
+Run `npm install` in the root for install all npm dependencies.
 
 ## Development server
 
