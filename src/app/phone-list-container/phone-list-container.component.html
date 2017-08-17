@@ -1,0 +1,5 @@
+
+<ul class="list-unstyled" *ngIf="phones">
+      <app-phone-detail-component *ngFor="let phone of phones" [phone]="phone"></app-phone-detail-component>
+</ul>
+<app-loading *ngIf="!phones"></app-loading>
